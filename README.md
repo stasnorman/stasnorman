@@ -19,3 +19,6 @@
 <a target="_blank" href="https://www.youtube.com/channel/UCvclan-pHgz5LZ1ky_f1z1g?sub_confirmation=1"><img alt="Я в YouTube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1280px-Logo_of_YouTube_%282015-2017%29.svg.png" height="40" width="auto"></a><br/>
 
 [![Stas Norman](https://img.youtube.com/vi/Wx0mAHcq8bY/0.jpg)](https://www.youtube.com/watch?v=Wx0mAHcq8bY)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
