@@ -1,3 +1,6 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Всем привет! 👋
 
 📌 Меня зовут Станислав и это мой профиль, куда я выкладываю всё то, что разрабатываю. <br/>
@@ -20,4 +23,4 @@
 
 [![Stas Norman](https://img.youtube.com/vi/Wx0mAHcq8bY/0.jpg)](https://www.youtube.com/watch?v=Wx0mAHcq8bY)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=stasnorman)](https://github.com/ryo-ma/github-profile-trophy)
+
