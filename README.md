@@ -20,5 +20,4 @@
 
 [![Stas Norman](https://img.youtube.com/vi/Wx0mAHcq8bY/0.jpg)](https://www.youtube.com/watch?v=Wx0mAHcq8bY)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
