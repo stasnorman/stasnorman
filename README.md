@@ -10,7 +10,7 @@
 📊 Применяемые технологии: 
       <li>React и React Native (CLI и Expo: Android, iOS, Web)</li> 
       <li>C# (.Net Framework и .Net Core: WPF, Library, Console)</li> 
-      <li>ASP.Net (WebAPI, Blazor, MVC 5)</li> 
+      <li>ASP.Net (WebAPI, Blazor, .Net Core 7)</li> 
       <li>PHP (Symphony, Laravel, REST-интерфейсы)</li>
       <li>Базы данных (MSSQL, MySQL, MongoDB, PostgreeSQL)</li>
 </ul>
