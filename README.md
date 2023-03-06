@@ -35,14 +35,4 @@
     <li><a href="https://mgok.mskobr.ru/postuplenie-v-kolledzh/dni-otkrytyh-dverej">Дни открытых дверей</a></li>
 </ul>
 
-<p>
-  <strong>
-    Методология разработки программного обеспечения
-  </strong>
-  <br/>
-  <i>
-    Слушатели узнают как студенты МГОК используют современные способы методологии и средствах разработки программных продуктов.
-  </i>
- </p>
-
 <img style="display:inline-block;" src="https://user-images.githubusercontent.com/27802579/218448256-3820348b-da8a-46ef-845a-0cffa0c0a9c1.png" style="width:100%;" />
