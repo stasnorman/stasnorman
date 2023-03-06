@@ -23,7 +23,7 @@
 <a target="_blank" href="https://www.youtube.com/channel/UCvclan-pHgz5LZ1ky_f1z1g?sub_confirmation=1"><img alt="Я в YouTube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1280px-Logo_of_YouTube_%282015-2017%29.svg.png" height="40" width="auto"></a><br/>
 
 <img style="display:inline-block;" src="https://user-images.githubusercontent.com/27802579/218448256-3820348b-da8a-46ef-845a-0cffa0c0a9c1.png" style="width:100%;" />
-<h1> Всех рады видеть в стенах МГОК! </h1>
+<h1> Всех рады видеть в стенах МГОК! <img src="http://static.skaip.su/img/emoticons/180x180/f6fcff/highfive.gif" style="width:50px; height:auto;" /> </h1>
 
 <ul style=" list-style-type: none;">
     <li><a href="https://mgok.mskobr.ru/">Главная страница</a></li>
