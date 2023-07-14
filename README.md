@@ -21,18 +21,3 @@
 <a href='https://vk.com/dantejke' target='_blank'> <img alt="Я в ВКонтакте" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1024px-VK.com-logo.svg.png"  width="40" height="40"> </a>
 <a href='https://www.instagram.com/stas_norman/' target='_blank'> <img alt="Я в Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="40" height="40"></a>
 <a target="_blank" href="https://www.youtube.com/channel/UCvclan-pHgz5LZ1ky_f1z1g?sub_confirmation=1"><img alt="Я в YouTube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1280px-Logo_of_YouTube_%282015-2017%29.svg.png" height="40" width="auto"></a><br/>
-
-<img style="display:inline-block;" src="https://user-images.githubusercontent.com/27802579/218448256-3820348b-da8a-46ef-845a-0cffa0c0a9c1.png" style="width:100%;" />
-<h1> Всех рады видеть в стенах МГОК! <img src="http://static.skaip.su/img/emoticons/180x180/f6fcff/highfive.gif" style="width:50px; height:auto;" /> </h1>
-
-<ul style=" list-style-type: none;">
-    <li><a href="https://mgok.mskobr.ru/">Главная страница</a></li>
-    <li><a href="https://mgok.mskobr.ru/o-nas/obshaya-informatciya">Общая информация</a></li>
-    <li><a href="https://mgok.mskobr.ru/o-nas/novosti">Новости колледжа</a></li>
-    <li><a href="https://mgok.mskobr.ru/postuplenie-v-kolledzh/priemnaya-komissiya">Приемная комиссия</a></li> 
-    <li><a href="https://mgok.mskobr.ru/postuplenie-v-kolledzh/specialnosti-professii">Специальности/профессии</a></li>
-    <li><a href="https://mgok.mskobr.ru/postuplenie-v-kolledzh/vstupitelnye-ispytaniya">Вступительные испытания</a></li>
-    <li><a href="https://mgok.mskobr.ru/postuplenie-v-kolledzh/dni-otkrytyh-dverej">Дни открытых дверей</a></li>
-</ul>
-
-<img style="display:inline-block;" src="https://user-images.githubusercontent.com/27802579/218448256-3820348b-da8a-46ef-845a-0cffa0c0a9c1.png" style="width:100%;" />
