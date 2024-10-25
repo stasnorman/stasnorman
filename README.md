@@ -20,11 +20,9 @@
 ### 🧰 Languages and Tools
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,react,ts,py,cmake,postgres,stackoverflow&perline=10)
 
-
-### 📊 Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stasnorman&theme=yeblu)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stasnorman&theme=yeblu) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stasnorman&theme=yeblu)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stasnorman&theme=transparent) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stasnorman&theme=transparent) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stasnorman&theme=transparent)
 
 ### Я в социальных сетях
 <a href='https://vk.com/dantejke' target='_blank'> <img alt="Я в ВКонтакте" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1024px-VK.com-logo.svg.png"  width="40" height="40"> </a>
