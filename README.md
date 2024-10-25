@@ -1,5 +1,5 @@
 ### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,react,ts,py,cmake,postgres,stackoverflow&perline=1)]
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,react,ts,py,cmake,postgres,stackoverflow&perline=10)]
 
 
 ### 📊 Stats
