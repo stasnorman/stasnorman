@@ -1,14 +1,13 @@
 # 👋 Hello world!
 ---
 
-<div style="display: flex; align-items: center; display: inline-flex;">
-
-  <div style="flex: 1;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Logo" width="150" height="auto">
-  </div>
-  
-  <div style="flex: 2; padding-left: 20px; padding:10px;">
-    
+<table>
+  <tr>
+    <td>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" alt="Microsoft Logo" width="150" height="auto">
+    </td>
+    <td>
+      
 ### 👨‍💻 Привет! Меня зовут Станислав
 
 Добро пожаловать в мой GitHub профиль! Здесь я делюсь своими разработками и интересными проектами. 🌟
@@ -19,8 +18,10 @@
   - **C1**: Уровень понимания технической и художественной литературы.
   - **C1**: Уровень разговорного английского.
 
-  </div>
-</div>
+    </td>
+  </tr>
+</table>
+
 
 
     
