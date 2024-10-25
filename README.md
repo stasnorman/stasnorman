@@ -1,8 +1,3 @@
-### Github Achievement
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasnorman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stasnorman)](https://git.io/streak-stats)
-
 ### Всем привет! 👋
 📌 Меня зовут Станислав и это мой профиль, куда я выкладываю всё то, что разрабатываю. <br/>
 📌 О себе: Разработчик, в свободное время хакатоню с своей командой «easy4». 
@@ -15,12 +10,17 @@
       <li>Базы данных (MSSQL, MySQL, MongoDB, PostgreeSQL)</li>
 </ul>
 😄 Знание английского: чтение и понимание литературы (художественной и технической). <br/>
-😄 Уровень разговорного: B1;
+😄 Уровень разговорного: C1;
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stasnorman&theme=transparent) 
+### Github Achievement
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasnorman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stasnorman)](https://git.io/streak-stats)
 
 ### 🧰 Languages and Tools
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,react,ts,py,cmake,postgres,stackoverflow&perline=10)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stasnorman&theme=transparent) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stasnorman&theme=transparent) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stasnorman&theme=transparent)
 
