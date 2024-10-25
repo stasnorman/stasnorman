@@ -1,3 +1,12 @@
+### 🧰 Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,react,ts,py,cmake,postgres,stackoverflow&perline=4)]
+
+
+### 📊 Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stasnorman&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stasnorman&theme=algolia) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stasnorman&theme=algolia)
+
 ### Github Achievement
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasnorman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
