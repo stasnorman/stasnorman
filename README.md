@@ -1,12 +1,3 @@
-### 🧰 Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,react,ts,py,cmake,postgres,stackoverflow&perline=10)
-
-
-### 📊 Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stasnorman&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stasnorman&theme=algolia) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stasnorman&theme=algolia)
-
 ### Github Achievement
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stasnorman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,6 +16,15 @@
 </ul>
 😄 Знание английского: чтение и понимание литературы (художественной и технической). <br/>
 😄 Уровень разговорного: B1;
+
+### 🧰 Languages and Tools
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,react,ts,py,cmake,postgres,stackoverflow&perline=10)
+
+
+### 📊 Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stasnorman&theme=yeblu)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stasnorman&theme=yeblu) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stasnorman&theme=yeblu)
 
 ### Я в социальных сетях
 <a href='https://vk.com/dantejke' target='_blank'> <img alt="Я в ВКонтакте" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1024px-VK.com-logo.svg.png"  width="40" height="40"> </a>
