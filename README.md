@@ -29,7 +29,7 @@
 ## 💻 Применяемые технологии
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,cs,dotnet,cpp,php,postgres,mysql,azure,blazor&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vue,cs,dotnet,cpp,php,postgres,mysql,azure,blazor&theme=light" />
 </p>
 
 ---
